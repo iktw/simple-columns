@@ -17,7 +17,7 @@ function columnifyInArrays(items, cols) {
 
 function columnifyOrder(items, cols) {
     var columns = columnifyInArrays(items, cols),
-      orderedItems = [];
+        orderedItems = [];
     for (var i = 0; i < columns.length; i++) {
         var column = columns[i];
         for (var y = 0; y < column.length; y++) {
@@ -27,3 +27,8 @@ function columnifyOrder(items, cols) {
     }
     return orderedItems;
 }
+
+module.exports = {
+    columnifyOrder: columnifyOrder,
+    columnifyInArrays: columnifyInArrays
+};
