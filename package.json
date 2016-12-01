@@ -1,0 +1,28 @@
+{
+  "name": "columnify",
+  "version": "1.0.0",
+  "description": "Simple helper package to put a collection of items into columns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iktw/columnify.git"
+  },
+  "keywords": [
+    "column",
+    "columnify",
+    "javascript",
+    "rows",
+    "items",
+    "order",
+    "ordering"
+  ],
+  "author": "Mohammed Hammoud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iktw/columnify/issues"
+  },
+  "homepage": "https://github.com/iktw/columnify#readme"
+}
