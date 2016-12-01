@@ -1,5 +1,5 @@
 {
-  "name": "columnify",
+  "name": "simple-columns",
   "version": "1.0.0",
   "description": "Simple helper package to put a collection of items into columns.",
   "main": "index.js",
@@ -8,11 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iktw/columnify.git"
+    "url": "git+https://github.com/iktw/simple-columns.git"
   },
   "keywords": [
     "column",
     "columnify",
+    "simple",
     "javascript",
     "rows",
     "items",
