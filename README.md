@@ -11,3 +11,6 @@ npm install columnify --save-dev
 | ------------- |-------------|-------------|-------------|
 | columnifyInArrays | Function | (items=Array, cols=Number) | Array of Arrays with items |
 | columnifyOrder | Function | (items=Array, cols=Number) | Array with items ordered by column |
+
+### Example
+<img src="https://github.com/iktw/columnify/blob/master/example.png"/>
